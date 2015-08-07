@@ -1,0 +1,23 @@
+1。运行第一题请执行以下命令
+cd hahaha
+mvn clean
+mvn compile
+mvn exec:java -Dexec.mainClass="com.hand.hahaha.ShuShu"
+
+2。运行第二题请执行以下命令
+cd hahaha
+mvn clean
+mvn compile
+mvn exec:java -Dexec.mainClass="com.hand.hahaha.SuoDeShui"
+
+3。运行第二题请执行以下命令
+cd hahaha
+mvn clean
+mvn compile
+mvn exec:java -Dexec.mainClass="com.hand.hahaha.DiJiTian"
+
+4。运行第四题请执行以下命令
+cd hahaha
+mvn clean
+mvn compile
+mvn exec:java -Dexec.mainClass="com.hand.hahaha.Random1"
